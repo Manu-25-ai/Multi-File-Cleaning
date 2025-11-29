@@ -1,0 +1,6 @@
+customer_id,customer_name,email,city,segment
+C001,Arjun Singh,arjun.singh@gmail.com,Mumbai,B2C
+C002,Riya Sharma,riya.sharma@gmail.com,Delhi,B2C
+C003,Tech Corp Pvt Ltd,contact@techcorp.in,Bangalore,B2B
+C004,Mohan Patel,mohan.patel@example.com,Ahmedabad,B2C
+C005,Sai Enterprises,support@sai-enterprises.com,Hyderabad,B2B

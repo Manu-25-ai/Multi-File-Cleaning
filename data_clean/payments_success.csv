@@ -1,0 +1,4 @@
+payment_id,order_id,payment_method,payment_status,amount
+PM01,O1001,UPI,Success,1798.0
+PM03,O1003,UPI,Success,4497.0
+PM05,O1006,NetBanking,Success,11998.0

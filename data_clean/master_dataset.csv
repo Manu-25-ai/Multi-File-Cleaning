@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,order_date,quantity,customer_name,email,city,segment,product_name,category,unit_price,payment_method,payment_status,amount,expected_amount,payment_difference,order_month,order_year
+O1001,C001,P001,2024-01-15,2,Arjun Singh,arjun.singh@gmail.com,Mumbai,B2C,Wireless Mouse,Electronics,899.0,UPI,Success,1798.0,1798.0,0.0,1,2024
+O1006,C005,P003,2024-01-25,2,Sai Enterprises,support@sai-enterprises.com,Hyderabad,B2B,Office Chair,Furniture,5999.0,NetBanking,Success,11998.0,11998.0,0.0,1,2024
